@@ -33,7 +33,7 @@ ORDER BY Total_Count DESC;
 ```
 
 ### **Findings & Business Impact:**
-![delay](https://github.com/user-attachments/assets/4c3601ea-92d0-4719-baa7-bf5e36a44108)
+![delay](https://github.com/user-attachments/assets/71096642-0f34-4b84-95f5-e42a43c3907b)
 
 - **Weather (151 delays)** → Unpredictable conditions cause disruptions; proactive planning is needed.
 - **Mechanical Failures (133 delays)** → Equipment issues highlight the need for preventive maintenance.
